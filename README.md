@@ -1,6 +1,6 @@
 # Rat-winos4.4-gh0st
 
-PC远控winos4.0改版
+PC远控winos4.0重构
 
 致力于打造一个Client轻量且免杀，Server端稳定且高效的Rat
 
