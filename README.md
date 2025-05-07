@@ -4,7 +4,7 @@ PC远控winos4.0重构
 
 致力于打造一个Client轻量且免杀，Server端稳定且高效的Rat
 
-购买联系唯一ID：@Say_2_Much
+Release体积较大无法上传，需要请联系唯一ID：@Say_2_Much，可提供试用版本
 
 ![image](https://github.com/user-attachments/assets/61abf101-2e35-4b06-a388-164cfdf0848a)
 
